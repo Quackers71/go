@@ -13,4 +13,13 @@ go get "github.com/gorilla/mux"
 ```
 
 Go / Golang Crash Course | Traversy Media
-- https://youtu.be/SqrbIlUwR0U
+- https://youtu.be/SqrbIlUwR0U</br>
+
+golang project structure | buildr - explained very well...
+- https://youtu.be/l9rMdKO1Vto
+
+```
+go init mod {github.com/repo_stuff_here}
+# Switch Go Modules On
+export GO111MODULE="on"
+```
